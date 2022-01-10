@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @teoandrew
-- 👀 I’m interested in upskilling myself to grow and serve. 
+- 👀 I’m interested in upskilling myself to grow and serve others.
 - 🌱 I’m currently learning computer science in Monash University.
-- 💞️ I’m looking to collaborate on: nothing at the moment. Working on personal projects.
+- 💞️ I’m looking to collaborate on: nothing at the moment. Working on personal beginner/intermediate-level projects.
 - 📫 How to reach me: teoandrewszenray@gmail.com
 
 <!---
