@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @teoandrew :)
-- 👀 I’m interested in upskilling myself to grow and serve others.
-- 🌱 I’m currently in my third year studying computer science in Monash University Malaysia.
+- 👋 @teoandrew. Hello :D
+- 👀 Devoted to upskilling myself to grow and serve others.
+- 🌱 Currently a third year computer science student in Monash University Malaysia.
 - 📫 How to reach me: szenray@gmail.com
 - 📫 Alternatively, you can find me on LinkedIn at: https://www.linkedin.com/in/andrew-teo-541b491b5/
 
